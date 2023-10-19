@@ -4,7 +4,7 @@
 
 # Description:
 
-The "Adult Census Income Prediction" project aims to develop a predictive model that can accurately determine whether an adult earns more than $50,000 USD per year based on various demographic and socio-economic features. This project utilizes a comprehensive dataset called "Adult Census Income," which is available for reference at the following link: https://www.kaggle.com/datasets/uciml/adult-census-income%E2%80%9D
+The "Adult Census Income Prediction" project aims to develop a predictive model that can accurately determine whether an adult earns more than $50,000 USD per year based on various demographic and socio-economic features. This project utilizes a comprehensive dataset called "Adult Census Income," which is available for reference at the following link: [https://www.kaggle.com/datasets/uciml/adult-census-income%E2%80%9D](https://www.kaggle.com/datasets/uciml/adult-census-income)
 
 # Dataset Features:
 
